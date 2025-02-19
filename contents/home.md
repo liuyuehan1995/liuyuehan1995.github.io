@@ -11,5 +11,5 @@ liuyuehan221@mails.ucas.ac.cn
 
 
 #### Research Interests
-Production Schedule, Deep Learning, Artificial Intelligence Seismology.
+Production Schedule, Deep Learning, Artificial Intelligence.
 
